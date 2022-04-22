@@ -1,0 +1,424 @@
+location,url,province
+Pudong New Area,%E4%B8%8A%E6%B5%B7-%E6%B5%A6%E4%B8%9C%E6%96%B0%E5%8C%BA,Shanghai
+Minhang District,%E4%B8%8A%E6%B5%B7-%E9%97%B5%E8%A1%8C%E5%8C%BA,Shanghai
+Huangpu District,%E4%B8%8A%E6%B5%B7-%E9%BB%84%E6%B5%A6%E5%8C%BA,Shanghai
+Xuhui District,%E4%B8%8A%E6%B5%B7-%E5%BE%90%E6%B1%87%E5%8C%BA,Shanghai
+Songjiang District,%E4%B8%8A%E6%B5%B7-%E6%9D%BE%E6%B1%9F%E5%8C%BA,Shanghai
+Hongkou District,%E4%B8%8A%E6%B5%B7-%E8%99%B9%E5%8F%A3%E5%8C%BA,Shanghai
+Changning District,%E4%B8%8A%E6%B5%B7-%E9%95%BF%E5%AE%81%E5%8C%BA,Shanghai
+Qingpu District,%E4%B8%8A%E6%B5%B7-%E9%9D%92%E6%B5%A6%E5%8C%BA,Shanghai
+Jiading District,%E4%B8%8A%E6%B5%B7-%E5%98%89%E5%AE%9A%E5%8C%BA,Shanghai
+Yangpu District,%E4%B8%8A%E6%B5%B7-%E6%9D%A8%E6%B5%A6%E5%8C%BA,Shanghai
+Jing'an District,%E4%B8%8A%E6%B5%B7-%E9%9D%99%E5%AE%89%E5%8C%BA,Shanghai
+Putuo District,%E4%B8%8A%E6%B5%B7-%E6%99%AE%E9%99%80%E5%8C%BA,Shanghai
+Baoshan District,%E4%B8%8A%E6%B5%B7-%E5%AE%9D%E5%B1%B1%E5%8C%BA,Shanghai
+Jinshan District,%E4%B8%8A%E6%B5%B7-%E9%87%91%E5%B1%B1%E5%8C%BA,Shanghai
+Chongming District,%E4%B8%8A%E6%B5%B7-%E5%B4%87%E6%98%8E%E5%8C%BA,Shanghai
+Fengxian District,%E4%B8%8A%E6%B5%B7-%E5%A5%89%E8%B4%A4%E5%8C%BA,Shanghai
+Changchun,%E5%90%89%E6%9E%97-%E9%95%BF%E6%98%A5,Jilin
+Jilin City,%E5%90%89%E6%9E%97-%E5%90%89%E6%9E%97%E5%B8%82,Jilin
+Baicheng,%E5%90%89%E6%9E%97-%E7%99%BD%E5%9F%8E,Jilin
+Tonghua,%E5%90%89%E6%9E%97-%E9%80%9A%E5%8C%96,Jilin
+Siping,%E5%90%89%E6%9E%97-%E5%9B%9B%E5%B9%B3,Jilin
+Yanbian,%E5%90%89%E6%9E%97-%E5%BB%B6%E8%BE%B9,Jilin
+Matsubara,%E5%90%89%E6%9E%97-%E6%9D%BE%E5%8E%9F,NA
+Baishan,%E5%90%89%E6%9E%97-%E7%99%BD%E5%B1%B1,Jilin
+Liaoyuan,%E5%90%89%E6%9E%97-%E8%BE%BD%E6%BA%90,Jilin
+Meihekou,%E5%90%89%E6%9E%97-%E6%A2%85%E6%B2%B3%E5%8F%A3,Jilin
+Guangzhou,%E5%B9%BF%E4%B8%9C-%E5%B9%BF%E5%B7%9E,Guangdong
+Shenzhen,%E5%B9%BF%E4%B8%9C-%E6%B7%B1%E5%9C%B3,Guangdong
+Dongguan,%E5%B9%BF%E4%B8%9C-%E4%B8%9C%E8%8E%9E,Guangdong
+Zhuhai,%E5%B9%BF%E4%B8%9C-%E7%8F%A0%E6%B5%B7,Guangdong
+Foshan,%E5%B9%BF%E4%B8%9C-%E4%BD%9B%E5%B1%B1,Guangdong
+Zhongshan,%E5%B9%BF%E4%B8%9C-%E4%B8%AD%E5%B1%B1,Guangdong
+Huizhou,%E5%B9%BF%E4%B8%9C-%E6%83%A0%E5%B7%9E,Guangdong
+Zhaoqing,%E5%B9%BF%E4%B8%9C-%E8%82%87%E5%BA%86,Guangdong
+Zhanjiang,%E5%B9%BF%E4%B8%9C-%E6%B9%9B%E6%B1%9F,Guangdong
+Shantou,%E5%B9%BF%E4%B8%9C-%E6%B1%95%E5%A4%B4,Guangdong
+Jiangmen,%E5%B9%BF%E4%B8%9C-%E6%B1%9F%E9%97%A8,Guangdong
+Maoming,%E5%B9%BF%E4%B8%9C-%E8%8C%82%E5%90%8D,Guangdong
+Meizhou,%E5%B9%BF%E4%B8%9C-%E6%A2%85%E5%B7%9E,Guangdong
+Yangjiang,%E5%B9%BF%E4%B8%9C-%E9%98%B3%E6%B1%9F,Guangdong
+Qingyuan,%E5%B9%BF%E4%B8%9C-%E6%B8%85%E8%BF%9C,Guangdong
+shaoguan,%E5%B9%BF%E4%B8%9C-%E9%9F%B6%E5%85%B3,Guangdong
+Jieyang,%E5%B9%BF%E4%B8%9C-%E6%8F%AD%E9%98%B3,Guangdong
+Shanwei,%E5%B9%BF%E4%B8%9C-%E6%B1%95%E5%B0%BE,Guangdong
+Heyuan,%E5%B9%BF%E4%B8%9C-%E6%B2%B3%E6%BA%90,Guangdong
+Yunfu,%E5%B9%BF%E4%B8%9C-%E4%BA%91%E6%B5%AE,Guangdong
+Chaozhou,%E5%B9%BF%E4%B8%9C-%E6%BD%AE%E5%B7%9E,Guangdong
+Ningde,%E7%A6%8F%E5%BB%BA-%E5%AE%81%E5%BE%B7,Fujian
+Quanzhou,%E7%A6%8F%E5%BB%BA-%E6%B3%89%E5%B7%9E,Fujian
+Putian,%E7%A6%8F%E5%BB%BA-%E8%8E%86%E7%94%B0,Fujian
+Xiamen,%E7%A6%8F%E5%BB%BA-%E5%8E%A6%E9%97%A8,Fujian
+Fuzhou,%E7%A6%8F%E5%BB%BA-%E7%A6%8F%E5%B7%9E,Fujian
+Fuzhou,%E7%A6%8F%E5%BB%BA-%E7%A6%8F%E5%B7%9E,Jiangxi
+Zhangzhou,%E7%A6%8F%E5%BB%BA-%E6%BC%B3%E5%B7%9E,Fujian
+nanping,%E7%A6%8F%E5%BB%BA-%E5%8D%97%E5%B9%B3,Fujian
+Sanming,%E7%A6%8F%E5%BB%BA-%E4%B8%89%E6%98%8E,Fujian
+Longyan,%E7%A6%8F%E5%BB%BA-%E9%BE%99%E5%B2%A9,Fujian
+Hangzhou,%E6%B5%99%E6%B1%9F-%E6%9D%AD%E5%B7%9E,Zhejiang
+Ningbo,%E6%B5%99%E6%B1%9F-%E5%AE%81%E6%B3%A2,Zhejiang
+Huzhou,%E6%B5%99%E6%B1%9F-%E6%B9%96%E5%B7%9E,Zhejiang
+Shaoxing,%E6%B5%99%E6%B1%9F-%E7%BB%8D%E5%85%B4,Zhejiang
+Wenzhou,%E6%B5%99%E6%B1%9F-%E6%B8%A9%E5%B7%9E,Zhejiang
+Jiaxing,%E6%B5%99%E6%B1%9F-%E5%98%89%E5%85%B4,Zhejiang
+Taizhou,%E6%B5%99%E6%B1%9F-%E5%8F%B0%E5%B7%9E,Zhejiang
+Taizhou,%E6%B5%99%E6%B1%9F-%E5%8F%B0%E5%B7%9E,Jiangsu
+Quzhou,%E6%B5%99%E6%B1%9F-%E8%A1%A2%E5%B7%9E,Zhejiang
+Jinhua,%E6%B5%99%E6%B1%9F-%E9%87%91%E5%8D%8E,Zhejiang
+Yeosu,%E6%B5%99%E6%B1%9F-%E4%B8%BD%E6%B0%B4,Zhejiang
+Zhoushan,%E6%B5%99%E6%B1%9F-%E8%88%9F%E5%B1%B1,Zhejiang
+Taiyuan,%E5%B1%B1%E8%A5%BF-%E5%A4%AA%E5%8E%9F,Shanxi
+Jinzhong,%E5%B1%B1%E8%A5%BF-%E6%99%8B%E4%B8%AD,Shanxi
+Shuozhou,%E5%B1%B1%E8%A5%BF-%E6%9C%94%E5%B7%9E,Shanxi
+Yuncheng,%E5%B1%B1%E8%A5%BF-%E8%BF%90%E5%9F%8E,Shanxi
+Datong,%E5%B1%B1%E8%A5%BF-%E5%A4%A7%E5%90%8C,Shanxi
+Xinzhou,%E5%B1%B1%E8%A5%BF-%E5%BF%BB%E5%B7%9E,Shanxi
+Jincheng,%E5%B1%B1%E8%A5%BF-%E6%99%8B%E5%9F%8E,Shanxi
+Changzhi,%E5%B1%B1%E8%A5%BF-%E9%95%BF%E6%B2%BB,Shanxi
+Lu Liang,%E5%B1%B1%E8%A5%BF-%E5%90%95%E6%A2%81,Shanxi
+Yangquan,%E5%B1%B1%E8%A5%BF-%E9%98%B3%E6%B3%89,Shanxi
+Linfen,%E5%B1%B1%E8%A5%BF-%E4%B8%B4%E6%B1%BE,Shanxi
+Harbin,%E9%BB%91%E9%BE%99%E6%B1%9F-%E5%93%88%E5%B0%94%E6%BB%A8,Heilongjiang
+Suihua,%E9%BB%91%E9%BE%99%E6%B1%9F-%E7%BB%A5%E5%8C%96,Heilongjiang
+Heihe,%E9%BB%91%E9%BE%99%E6%B1%9F-%E9%BB%91%E6%B2%B3,Heilongjiang
+Mudanjiang,%E9%BB%91%E9%BE%99%E6%B1%9F-%E7%89%A1%E4%B8%B9%E6%B1%9F,Heilongjiang
+Jiamusi,%E9%BB%91%E9%BE%99%E6%B1%9F-%E4%BD%B3%E6%9C%A8%E6%96%AF,Heilongjiang
+Jixi,%E9%BB%91%E9%BE%99%E6%B1%9F-%E9%B8%A1%E8%A5%BF,Heilongjiang
+Shuangyashan,%E9%BB%91%E9%BE%99%E6%B1%9F-%E5%8F%8C%E9%B8%AD%E5%B1%B1,Heilongjiang
+Qiqihar,%E9%BB%91%E9%BE%99%E6%B1%9F-%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94,Heilongjiang
+Daqing,%E9%BB%91%E9%BE%99%E6%B1%9F-%E5%A4%A7%E5%BA%86,Heilongjiang
+Qitaihe,%E9%BB%91%E9%BE%99%E6%B1%9F-%E4%B8%83%E5%8F%B0%E6%B2%B3,Heilongjiang
+Hegang,%E9%BB%91%E9%BE%99%E6%B1%9F-%E9%B9%A4%E5%B2%97,Heilongjiang
+Daxing'anling Prefecture,%E9%BB%91%E9%BE%99%E6%B1%9F-%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E5%9C%B0%E5%8C%BA,Heilongjiang
+Yichun,%E9%BB%91%E9%BE%99%E6%B1%9F-%E4%BC%8A%E6%98%A5,Heilongjiang
+Wenshan,%E4%BA%91%E5%8D%97-%E6%96%87%E5%B1%B1,Yunnan
+Pu'er,%E4%BA%91%E5%8D%97-%E6%99%AE%E6%B4%B1,Yunnan
+Dehong Prefecture,%E4%BA%91%E5%8D%97-%E5%BE%B7%E5%AE%8F%E5%B7%9E,Yunnan
+Kunming,%E4%BA%91%E5%8D%97-%E6%98%86%E6%98%8E,Yunnan
+Honghe Hani and Yi Autonomous Prefecture,%E4%BA%91%E5%8D%97-%E7%BA%A2%E6%B2%B3%E5%B7%9E,Yunnan
+Zhaotong,%E4%BA%91%E5%8D%97-%E6%98%AD%E9%80%9A,Yunnan
+Xishuangbanna Dai Autonomous Prefecture,%E4%BA%91%E5%8D%97-%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E5%82%A3%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E,Yunnan
+Qujing,%E4%BA%91%E5%8D%97-%E6%9B%B2%E9%9D%96,Yunnan
+yuxi,%E4%BA%91%E5%8D%97-%E7%8E%89%E6%BA%AA,Yunnan
+Lincang,%E4%BA%91%E5%8D%97-%E4%B8%B4%E6%B2%A7,Yunnan
+Dali,%E4%BA%91%E5%8D%97-%E5%A4%A7%E7%90%86%E5%B7%9E,Yunnan
+Baoshan,%E4%BA%91%E5%8D%97-%E4%BF%9D%E5%B1%B1,Yunnan
+Lijiang,%E4%BA%91%E5%8D%97-%E4%B8%BD%E6%B1%9F,Yunnan
+Chuxiong Prefecture,%E4%BA%91%E5%8D%97-%E6%A5%9A%E9%9B%84%E5%B7%9E,Yunnan
+Nujiang Prefecture,%E4%BA%91%E5%8D%97-%E6%80%92%E6%B1%9F%E5%B7%9E,Yunnan
+Baise,%E5%B9%BF%E8%A5%BF-%E7%99%BE%E8%89%B2,Guangxi
+Fangchenggang,%E5%B9%BF%E8%A5%BF-%E9%98%B2%E5%9F%8E%E6%B8%AF,Guangxi
+Nanning,%E5%B9%BF%E8%A5%BF-%E5%8D%97%E5%AE%81,Guangxi
+North Sea,%E5%B9%BF%E8%A5%BF-%E5%8C%97%E6%B5%B7,Guangxi
+Guilin,%E5%B9%BF%E8%A5%BF-%E6%A1%82%E6%9E%97,Guangxi
+hechi,%E5%B9%BF%E8%A5%BF-%E6%B2%B3%E6%B1%A0,Guangxi
+Qinzhou,%E5%B9%BF%E8%A5%BF-%E9%92%A6%E5%B7%9E,Guangxi
+Liuzhou,%E5%B9%BF%E8%A5%BF-%E6%9F%B3%E5%B7%9E,Guangxi
+Yulin,%E5%B9%BF%E8%A5%BF-%E7%8E%89%E6%9E%97,Shaanxi
+Yulin,%E5%B9%BF%E8%A5%BF-%E7%8E%89%E6%9E%97,Guangxi
+Laibin,%E5%B9%BF%E8%A5%BF-%E6%9D%A5%E5%AE%BE,Guangxi
+Guigang,%E5%B9%BF%E8%A5%BF-%E8%B4%B5%E6%B8%AF,Guangxi
+Wuzhou,%E5%B9%BF%E8%A5%BF-%E6%A2%A7%E5%B7%9E,Guangxi
+Hezhou,%E5%B9%BF%E8%A5%BF-%E8%B4%BA%E5%B7%9E,Guangxi
+Chongzuo,%E5%B9%BF%E8%A5%BF-%E5%B4%87%E5%B7%A6,Guangxi
+Qingdao,%E5%B1%B1%E4%B8%9C-%E9%9D%92%E5%B2%9B,Shandong
+Jinan,%E5%B1%B1%E4%B8%9C-%E6%B5%8E%E5%8D%97,Shandong
+Jining,%E5%B1%B1%E4%B8%9C-%E6%B5%8E%E5%AE%81,Shandong
+Binzhou,%E5%B1%B1%E4%B8%9C-%E6%BB%A8%E5%B7%9E,Shandong
+Dezhou,%E5%B1%B1%E4%B8%9C-%E5%BE%B7%E5%B7%9E,Shandong
+Weihai,%E5%B1%B1%E4%B8%9C-%E5%A8%81%E6%B5%B7,Shandong
+Yantai,%E5%B1%B1%E4%B8%9C-%E7%83%9F%E5%8F%B0,Shandong
+Zibo,%E5%B1%B1%E4%B8%9C-%E6%B7%84%E5%8D%9A,Shandong
+Linyi,%E5%B1%B1%E4%B8%9C-%E4%B8%B4%E6%B2%82,Shandong
+Weifang,%E5%B1%B1%E4%B8%9C-%E6%BD%8D%E5%9D%8A,Shandong
+Tai'an,%E5%B1%B1%E4%B8%9C-%E6%B3%B0%E5%AE%89,Shandong
+Liaocheng,%E5%B1%B1%E4%B8%9C-%E8%81%8A%E5%9F%8E,Shandong
+Rizhao,%E5%B1%B1%E4%B8%9C-%E6%97%A5%E7%85%A7,Shandong
+Zaozhuang,%E5%B1%B1%E4%B8%9C-%E6%9E%A3%E5%BA%84,Shandong
+Heze,%E5%B1%B1%E4%B8%9C-%E8%8F%8F%E6%B3%BD,Shandong
+Dongying,%E5%B1%B1%E4%B8%9C-%E4%B8%9C%E8%90%A5,Shandong
+Chengdu,%E5%9B%9B%E5%B7%9D-%E6%88%90%E9%83%BD,Sichuan
+Ganzi Prefecture,%E5%9B%9B%E5%B7%9D-%E7%94%98%E5%AD%9C%E5%B7%9E,Sichuan
+Dazhou,%E5%9B%9B%E5%B7%9D-%E8%BE%BE%E5%B7%9E,Sichuan
+Nanchong,%E5%9B%9B%E5%B7%9D-%E5%8D%97%E5%85%85,Sichuan
+Guang'an,%E5%9B%9B%E5%B7%9D-%E5%B9%BF%E5%AE%89,Sichuan
+Luzhou,%E5%9B%9B%E5%B7%9D-%E6%B3%B8%E5%B7%9E,Sichuan
+Bazhong,%E5%9B%9B%E5%B7%9D-%E5%B7%B4%E4%B8%AD,Sichuan
+Mianyang,%E5%9B%9B%E5%B7%9D-%E7%BB%B5%E9%98%B3,Sichuan
+Suining,%E5%9B%9B%E5%B7%9D-%E9%81%82%E5%AE%81,Sichuan
+Neijiang,%E5%9B%9B%E5%B7%9D-%E5%86%85%E6%B1%9F,Sichuan
+Deyang,%E5%9B%9B%E5%B7%9D-%E5%BE%B7%E9%98%B3,Sichuan
+Panzhihua,%E5%9B%9B%E5%B7%9D-%E6%94%80%E6%9E%9D%E8%8A%B1,Sichuan
+Yibin,%E5%9B%9B%E5%B7%9D-%E5%AE%9C%E5%AE%BE,Sichuan
+Liangshan Prefecture,%E5%9B%9B%E5%B7%9D-%E5%87%89%E5%B1%B1%E5%B7%9E,Sichuan
+Leshan,%E5%9B%9B%E5%B7%9D-%E4%B9%90%E5%B1%B1,Sichuan
+Zigong,%E5%9B%9B%E5%B7%9D-%E8%87%AA%E8%B4%A1,Sichuan
+Meishan,%E5%9B%9B%E5%B7%9D-%E7%9C%89%E5%B1%B1,Sichuan
+Ya'an,%E5%9B%9B%E5%B7%9D-%E9%9B%85%E5%AE%89,Sichuan
+Guangyuan,%E5%9B%9B%E5%B7%9D-%E5%B9%BF%E5%85%83,Sichuan
+Ziyang,%E5%9B%9B%E5%B7%9D-%E8%B5%84%E9%98%B3,Sichuan
+Aba Prefecture,%E5%9B%9B%E5%B7%9D-%E9%98%BF%E5%9D%9D%E5%B7%9E,Sichuan
+Anyang,%E6%B2%B3%E5%8D%97-%E5%AE%89%E9%98%B3,Henan
+Xinyang,%E6%B2%B3%E5%8D%97-%E4%BF%A1%E9%98%B3,Henan
+Zhengzhou,%E6%B2%B3%E5%8D%97-%E9%83%91%E5%B7%9E,Henan
+Xuchang,%E6%B2%B3%E5%8D%97-%E8%AE%B8%E6%98%8C,Henan
+Zhoukou,%E6%B2%B3%E5%8D%97-%E5%91%A8%E5%8F%A3,Henan
+Nanyang,%E6%B2%B3%E5%8D%97-%E5%8D%97%E9%98%B3,Henan
+Zhumadian,%E6%B2%B3%E5%8D%97-%E9%A9%BB%E9%A9%AC%E5%BA%97,Henan
+Shangqiu,%E6%B2%B3%E5%8D%97-%E5%95%86%E4%B8%98,Henan
+Pingdingshan,%E6%B2%B3%E5%8D%97-%E5%B9%B3%E9%A1%B6%E5%B1%B1,Henan
+Xinxiang,%E6%B2%B3%E5%8D%97-%E6%96%B0%E4%B9%A1,Henan
+Jiaozuo,%E6%B2%B3%E5%8D%97-%E7%84%A6%E4%BD%9C,Henan
+Luoyang,%E6%B2%B3%E5%8D%97-%E6%B4%9B%E9%98%B3,Henan
+Luohe,%E6%B2%B3%E5%8D%97-%E6%BC%AF%E6%B2%B3,Henan
+Kaifeng,%E6%B2%B3%E5%8D%97-%E5%BC%80%E5%B0%81,Henan
+Puyang,%E6%B2%B3%E5%8D%97-%E6%BF%AE%E9%98%B3,Henan
+Hebi,%E6%B2%B3%E5%8D%97-%E9%B9%A4%E5%A3%81,Henan
+Sanmenxia,%E6%B2%B3%E5%8D%97-%E4%B8%89%E9%97%A8%E5%B3%A1,Henan
+Jiyuan,%E6%B2%B3%E5%8D%97-%E6%B5%8E%E6%BA%90,Henan
+Nanjing,%E6%B1%9F%E8%8B%8F-%E5%8D%97%E4%BA%AC,Jiangsu
+Suzhou,%E6%B1%9F%E8%8B%8F-%E8%8B%8F%E5%B7%9E,Anhui
+Suzhou,%E6%B1%9F%E8%8B%8F-%E8%8B%8F%E5%B7%9E,Jiangsu
+Yangzhou,%E6%B1%9F%E8%8B%8F-%E6%89%AC%E5%B7%9E,Jiangsu
+Lianyungang,%E6%B1%9F%E8%8B%8F-%E8%BF%9E%E4%BA%91%E6%B8%AF,Jiangsu
+Xuzhou,%E6%B1%9F%E8%8B%8F-%E5%BE%90%E5%B7%9E,Jiangsu
+Changzhou,%E6%B1%9F%E8%8B%8F-%E5%B8%B8%E5%B7%9E,Jiangsu
+Huaian,%E6%B1%9F%E8%8B%8F-%E6%B7%AE%E5%AE%89,Jiangsu
+Wuxi,%E6%B1%9F%E8%8B%8F-%E6%97%A0%E9%94%A1,Jiangsu
+Yancheng,%E6%B1%9F%E8%8B%8F-%E7%9B%90%E5%9F%8E,Jiangsu
+Taizhou,%E6%B1%9F%E8%8B%8F-%E6%B3%B0%E5%B7%9E,Zhejiang
+Taizhou,%E6%B1%9F%E8%8B%8F-%E6%B3%B0%E5%B7%9E,Jiangsu
+Nantong,%E6%B1%9F%E8%8B%8F-%E5%8D%97%E9%80%9A,Jiangsu
+Suqian,%E6%B1%9F%E8%8B%8F-%E5%AE%BF%E8%BF%81,Jiangsu
+Zhenjiang,%E6%B1%9F%E8%8B%8F-%E9%95%87%E6%B1%9F,Jiangsu
+Fengtai District,%E5%8C%97%E4%BA%AC-%E4%B8%B0%E5%8F%B0%E5%8C%BA,Beijing
+Haidian District,%E5%8C%97%E4%BA%AC-%E6%B5%B7%E6%B7%80%E5%8C%BA,Beijing
+Chaoyang District,%E5%8C%97%E4%BA%AC-%E6%9C%9D%E9%98%B3%E5%8C%BA,Beijing
+Daxing District,%E5%8C%97%E4%BA%AC-%E5%A4%A7%E5%85%B4%E5%8C%BA,Beijing
+Changping District,%E5%8C%97%E4%BA%AC-%E6%98%8C%E5%B9%B3%E5%8C%BA,Beijing
+Xicheng District,%E5%8C%97%E4%BA%AC-%E8%A5%BF%E5%9F%8E%E5%8C%BA,Beijing
+Shunyi District,%E5%8C%97%E4%BA%AC-%E9%A1%BA%E4%B9%89%E5%8C%BA,Beijing
+Dongcheng Area,%E5%8C%97%E4%BA%AC-%E4%B8%9C%E5%9F%8E%E5%8C%BA,Beijing
+Fangshan District,%E5%8C%97%E4%BA%AC-%E6%88%BF%E5%B1%B1%E5%8C%BA,Beijing
+Tongzhou District,%E5%8C%97%E4%BA%AC-%E9%80%9A%E5%B7%9E%E5%8C%BA,Beijing
+Shijingshan District,%E5%8C%97%E4%BA%AC-%E7%9F%B3%E6%99%AF%E5%B1%B1%E5%8C%BA,Beijing
+Huairou District,%E5%8C%97%E4%BA%AC-%E6%80%80%E6%9F%94%E5%8C%BA,Beijing
+Miyun District,%E5%8C%97%E4%BA%AC-%E5%AF%86%E4%BA%91%E5%8C%BA,Beijing
+Mentougou District,%E5%8C%97%E4%BA%AC-%E9%97%A8%E5%A4%B4%E6%B2%9F%E5%8C%BA,Beijing
+Yanqing District,%E5%8C%97%E4%BA%AC-%E5%BB%B6%E5%BA%86%E5%8C%BA,Beijing
+Sanya,%E6%B5%B7%E5%8D%97-%E4%B8%89%E4%BA%9A,Hainan
+Haikou,%E6%B5%B7%E5%8D%97-%E6%B5%B7%E5%8F%A3,Hainan
+Danzhou,%E6%B5%B7%E5%8D%97-%E5%84%8B%E5%B7%9E,Hainan
+Mannings,%E6%B5%B7%E5%8D%97-%E4%B8%87%E5%AE%81,Hainan
+Qionghai,%E6%B5%B7%E5%8D%97-%E7%90%BC%E6%B5%B7,Hainan
+Chengmai,%E6%B5%B7%E5%8D%97-%E6%BE%84%E8%BF%88,Hainan
+Lingshui Li Autonomous County,%E6%B5%B7%E5%8D%97-%E9%99%B5%E6%B0%B4%E9%BB%8E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF,Hainan
+Changjiang Li Autonomous County,%E6%B5%B7%E5%8D%97-%E6%98%8C%E6%B1%9F%E9%BB%8E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF,Hainan
+Lingao,%E6%B5%B7%E5%8D%97-%E4%B8%B4%E9%AB%98,Hainan
+Wenchang,%E6%B5%B7%E5%8D%97-%E6%96%87%E6%98%8C,Hainan
+Baoting Li and Miao Autonomous County,%E6%B5%B7%E5%8D%97-%E4%BF%9D%E4%BA%AD%E9%BB%8E%E6%97%8F%E8%8B%97%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF,Hainan
+Dongfang,%E6%B5%B7%E5%8D%97-%E4%B8%9C%E6%96%B9,Hainan
+Ding An,%E6%B5%B7%E5%8D%97-%E5%AE%9A%E5%AE%89,Hainan
+Ledong Li Autonomous County,%E6%B5%B7%E5%8D%97-%E4%B9%90%E4%B8%9C%E9%BB%8E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF,Hainan
+Qiongzhong Li and Miao Autonomous County,%E6%B5%B7%E5%8D%97-%E7%90%BC%E4%B8%AD%E9%BB%8E%E6%97%8F%E8%8B%97%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF,Hainan
+Tunchang,%E6%B5%B7%E5%8D%97-%E5%B1%AF%E6%98%8C,Hainan
+Sansha,%E6%B5%B7%E5%8D%97-%E4%B8%89%E6%B2%99,Hainan
+Xi'an,%E9%99%95%E8%A5%BF-%E8%A5%BF%E5%AE%89,Shaanxi
+Weinan,%E9%99%95%E8%A5%BF-%E6%B8%AD%E5%8D%97,Shaanxi
+Baoji,%E9%99%95%E8%A5%BF-%E5%AE%9D%E9%B8%A1,Shaanxi
+Hanzhong,%E9%99%95%E8%A5%BF-%E6%B1%89%E4%B8%AD,Shaanxi
+Xianyang,%E9%99%95%E8%A5%BF-%E5%92%B8%E9%98%B3,Shaanxi
+Well-being,%E9%99%95%E8%A5%BF-%E5%AE%89%E5%BA%B7,Shaanxi
+Tongchuan,%E9%99%95%E8%A5%BF-%E9%93%9C%E5%B7%9D,Shaanxi
+Yan'an,%E9%99%95%E8%A5%BF-%E5%BB%B6%E5%AE%89,Shaanxi
+Shangluo,%E9%99%95%E8%A5%BF-%E5%95%86%E6%B4%9B,Shaanxi
+Yulin,%E9%99%95%E8%A5%BF-%E6%A6%86%E6%9E%97,Shaanxi
+Yulin,%E9%99%95%E8%A5%BF-%E6%A6%86%E6%9E%97,Guangxi
+Yangling Demonstration Area,%E9%99%95%E8%A5%BF-%E6%9D%A8%E5%87%8C%E7%A4%BA%E8%8C%83%E5%8C%BA,Guangxi
+Handan,%E6%B2%B3%E5%8C%97-%E9%82%AF%E9%83%B8,Hebei
+Shijiazhuang,%E6%B2%B3%E5%8C%97-%E7%9F%B3%E5%AE%B6%E5%BA%84,Hebei
+langfang,%E6%B2%B3%E5%8C%97-%E5%BB%8A%E5%9D%8A,Hebei
+Cangzhou,%E6%B2%B3%E5%8C%97-%E6%B2%A7%E5%B7%9E,Hebei
+Xingtai,%E6%B2%B3%E5%8C%97-%E9%82%A2%E5%8F%B0,Hebei
+Tangshan,%E6%B2%B3%E5%8C%97-%E5%94%90%E5%B1%B1,Hebei
+Baoding,%E6%B2%B3%E5%8C%97-%E4%BF%9D%E5%AE%9A,Hebei
+Zhangjiakou,%E6%B2%B3%E5%8C%97-%E5%BC%A0%E5%AE%B6%E5%8F%A3,Hebei
+Qinhuangdao,%E6%B2%B3%E5%8C%97-%E7%A7%A6%E7%9A%87%E5%B2%9B,Hebei
+Hengshui,%E6%B2%B3%E5%8C%97-%E8%A1%A1%E6%B0%B4,Hebei
+Chengde,%E6%B2%B3%E5%8C%97-%E6%89%BF%E5%BE%B7,Hebei
+Xining,%E9%9D%92%E6%B5%B7-%E8%A5%BF%E5%AE%81,Qinghai
+Haibei Prefecture,%E9%9D%92%E6%B5%B7-%E6%B5%B7%E5%8C%97%E5%B7%9E,NA
+Jinnan District,%E5%A4%A9%E6%B4%A5-%E6%B4%A5%E5%8D%97%E5%8C%BA,Tianjin
+Xiqing District,%E5%A4%A9%E6%B4%A5-%E8%A5%BF%E9%9D%92%E5%8C%BA,Tianjin
+Wuqing District,%E5%A4%A9%E6%B4%A5-%E6%AD%A6%E6%B8%85%E5%8C%BA,Tianjin
+Hebei District,%E5%A4%A9%E6%B4%A5-%E6%B2%B3%E5%8C%97%E5%8C%BA,Tianjin
+Binhai New Area,%E5%A4%A9%E6%B4%A5-%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA,Tianjin
+Baodi District,%E5%A4%A9%E6%B4%A5-%E5%AE%9D%E5%9D%BB%E5%8C%BA,Tianjin
+Nankai District,%E5%A4%A9%E6%B4%A5-%E5%8D%97%E5%BC%80%E5%8C%BA,Tianjin
+Hongqiao District,%E5%A4%A9%E6%B4%A5-%E7%BA%A2%E6%A1%A5%E5%8C%BA,Tianjin
+Hedong District,%E5%A4%A9%E6%B4%A5-%E6%B2%B3%E4%B8%9C%E5%8C%BA,Tianjin
+Dongli District,%E5%A4%A9%E6%B4%A5-%E4%B8%9C%E4%B8%BD%E5%8C%BA,Tianjin
+Hexi District,%E5%A4%A9%E6%B4%A5-%E6%B2%B3%E8%A5%BF%E5%8C%BA,Tianjin
+Beichen District,%E5%A4%A9%E6%B4%A5-%E5%8C%97%E8%BE%B0%E5%8C%BA,Tianjin
+Jinghai District,%E5%A4%A9%E6%B4%A5-%E9%9D%99%E6%B5%B7%E5%8C%BA,Tianjin
+Ninghe District,%E5%A4%A9%E6%B4%A5-%E5%AE%81%E6%B2%B3%E5%8C%BA,Tianjin
+Heping District,%E5%A4%A9%E6%B4%A5-%E5%92%8C%E5%B9%B3%E5%8C%BA,Tianjin
+Jizhou District,%E5%A4%A9%E6%B4%A5-%E8%93%9F%E5%B7%9E%E5%8C%BA,Tianjin
+Shenyang,%E8%BE%BD%E5%AE%81-%E6%B2%88%E9%98%B3,Liaoning
+Dalian,%E8%BE%BD%E5%AE%81-%E5%A4%A7%E8%BF%9E,Liaoning
+Huludao,%E8%BE%BD%E5%AE%81-%E8%91%AB%E8%8A%A6%E5%B2%9B,Liaoning
+yingkou,%E8%BE%BD%E5%AE%81-%E8%90%A5%E5%8F%A3,Liaoning
+Anshan,%E8%BE%BD%E5%AE%81-%E9%9E%8D%E5%B1%B1,Liaoning
+Jinzhou,%E8%BE%BD%E5%AE%81-%E9%94%A6%E5%B7%9E,Liaoning
+Tieling,%E8%BE%BD%E5%AE%81-%E9%93%81%E5%B2%AD,Liaoning
+Panjin,%E8%BE%BD%E5%AE%81-%E7%9B%98%E9%94%A6,Liaoning
+Liaoyang,%E8%BE%BD%E5%AE%81-%E8%BE%BD%E9%98%B3,Liaoning
+Dandong,%E8%BE%BD%E5%AE%81-%E4%B8%B9%E4%B8%9C,Liaoning
+Fuxin,%E8%BE%BD%E5%AE%81-%E9%98%9C%E6%96%B0,Liaoning
+Chaoyang,%E8%BE%BD%E5%AE%81-%E6%9C%9D%E9%98%B3,Liaoning
+Benxi,%E8%BE%BD%E5%AE%81-%E6%9C%AC%E6%BA%AA,Liaoning
+Fushun,%E8%BE%BD%E5%AE%81-%E6%8A%9A%E9%A1%BA,Liaoning
+Nanchang,%E6%B1%9F%E8%A5%BF-%E5%8D%97%E6%98%8C,Jiangxi
+Shangrao,%E6%B1%9F%E8%A5%BF-%E4%B8%8A%E9%A5%B6,Jiangxi
+xinyu,%E6%B1%9F%E8%A5%BF-%E6%96%B0%E4%BD%99,Jiangxi
+Jiujiang,%E6%B1%9F%E8%A5%BF-%E4%B9%9D%E6%B1%9F,Jiangxi
+Yichun,%E6%B1%9F%E8%A5%BF-%E5%AE%9C%E6%98%A5,Heilongjiang
+Yichun,%E6%B1%9F%E8%A5%BF-%E5%AE%9C%E6%98%A5,Jiangxi
+Ganzhou,%E6%B1%9F%E8%A5%BF-%E8%B5%A3%E5%B7%9E,Jiangxi
+Fuzhou,%E6%B1%9F%E8%A5%BF-%E6%8A%9A%E5%B7%9E,Fujian
+Fuzhou,%E6%B1%9F%E8%A5%BF-%E6%8A%9A%E5%B7%9E,Jiangxi
+Pingxiang,%E6%B1%9F%E8%A5%BF-%E8%90%8D%E4%B9%A1,Jiangxi
+Gian,%E6%B1%9F%E8%A5%BF-%E5%90%89%E5%AE%89,Jiangxi
+yingtan,%E6%B1%9F%E8%A5%BF-%E9%B9%B0%E6%BD%AD,Jiangxi
+Jingdezhen,%E6%B1%9F%E8%A5%BF-%E6%99%AF%E5%BE%B7%E9%95%87,Jiangxi
+Dazu District,%E9%87%8D%E5%BA%86-%E5%A4%A7%E8%B6%B3%E5%8C%BA,Chongqing
+Wanzhou District,%E9%87%8D%E5%BA%86-%E4%B8%87%E5%B7%9E%E5%8C%BA,Chongqing
+Jiangbei District,%E9%87%8D%E5%BA%86-%E6%B1%9F%E5%8C%97%E5%8C%BA,Chongqing
+Yunyang County,%E9%87%8D%E5%BA%86-%E4%BA%91%E9%98%B3%E5%8E%BF,Chongqing
+Qijiang District,%E9%87%8D%E5%BA%86-%E7%B6%A6%E6%B1%9F%E5%8C%BA,Chongqing
+Longevity District,%E9%87%8D%E5%BA%86-%E9%95%BF%E5%AF%BF%E5%8C%BA,Chongqing
+Hechuan District,%E9%87%8D%E5%BA%86-%E5%90%88%E5%B7%9D%E5%8C%BA,Chongqing
+Fengjie County,%E9%87%8D%E5%BA%86-%E5%A5%89%E8%8A%82%E5%8E%BF,Chongqing
+Jiulongpo District,%E9%87%8D%E5%BA%86-%E4%B9%9D%E9%BE%99%E5%9D%A1%E5%8C%BA,Chongqing
+Zhongxian,%E9%87%8D%E5%BA%86-%E5%BF%A0%E5%8E%BF,Chongqing
+Kaizhou District,%E9%87%8D%E5%BA%86-%E5%BC%80%E5%B7%9E%E5%8C%BA,Chongqing
+Yu Bei District,%E9%87%8D%E5%BA%86-%E6%B8%9D%E5%8C%97%E5%8C%BA,Chongqing
+Dianjiang County,%E9%87%8D%E5%BA%86-%E5%9E%AB%E6%B1%9F%E5%8E%BF,Chongqing
+Yuzhong District,%E9%87%8D%E5%BA%86-%E6%B8%9D%E4%B8%AD%E5%8C%BA,Chongqing
+Tongnan District,%E9%87%8D%E5%BA%86-%E6%BD%BC%E5%8D%97%E5%8C%BA,Chongqing
+South Bank area,%E9%87%8D%E5%BA%86-%E5%8D%97%E5%B2%B8%E5%8C%BA,Chongqing
+Shizhu County,%E9%87%8D%E5%BA%86-%E7%9F%B3%E6%9F%B1%E5%8E%BF,Chongqing
+Wuxi County,%E9%87%8D%E5%BA%86-%E5%B7%AB%E6%BA%AA%E5%8E%BF,Chongqing
+Banan District,%E9%87%8D%E5%BA%86-%E5%B7%B4%E5%8D%97%E5%8C%BA,Chongqing
+Fengdu County,%E9%87%8D%E5%BA%86-%E4%B8%B0%E9%83%BD%E5%8E%BF,Chongqing
+Wushan County,%E9%87%8D%E5%BA%86-%E5%B7%AB%E5%B1%B1%E5%8E%BF,Chongqing
+Tongliang District,%E9%87%8D%E5%BA%86-%E9%93%9C%E6%A2%81%E5%8C%BA,Chongqing
+Shapingba District,%E9%87%8D%E5%BA%86-%E6%B2%99%E5%9D%AA%E5%9D%9D%E5%8C%BA,Chongqing
+Yongchuan District,%E9%87%8D%E5%BA%86-%E6%B0%B8%E5%B7%9D%E5%8C%BA,Chongqing
+Bishan District,%E9%87%8D%E5%BA%86-%E7%92%A7%E5%B1%B1%E5%8C%BA,Chongqing
+Rongchang District,%E9%87%8D%E5%BA%86-%E8%8D%A3%E6%98%8C%E5%8C%BA,Chongqing
+Dadukou District,%E9%87%8D%E5%BA%86-%E5%A4%A7%E6%B8%A1%E5%8F%A3%E5%8C%BA,Chongqing
+Jiangjin District,%E9%87%8D%E5%BA%86-%E6%B1%9F%E6%B4%A5%E5%8C%BA,Chongqing
+Fuling District,%E9%87%8D%E5%BA%86-%E6%B6%AA%E9%99%B5%E5%8C%BA,Chongqing
+Liangping District,%E9%87%8D%E5%BA%86-%E6%A2%81%E5%B9%B3%E5%8C%BA,Chongqing
+Chengkou County,%E9%87%8D%E5%BA%86-%E5%9F%8E%E5%8F%A3%E5%8E%BF,Chongqing
+Qianjiang District,%E9%87%8D%E5%BA%86-%E9%BB%94%E6%B1%9F%E5%8C%BA,Chongqing
+Pengshui County,%E9%87%8D%E5%BA%86-%E5%BD%AD%E6%B0%B4%E5%8E%BF,Chongqing
+Xiushan County,%E9%87%8D%E5%BA%86-%E7%A7%80%E5%B1%B1%E5%8E%BF,Chongqing
+Youyang County,%E9%87%8D%E5%BA%86-%E9%85%89%E9%98%B3%E5%8E%BF,Chongqing
+Wuhan,%E6%B9%96%E5%8C%97-%E6%AD%A6%E6%B1%89,Hubei
+Xiaogan,%E6%B9%96%E5%8C%97-%E5%AD%9D%E6%84%9F,Hubei
+huanggang,%E6%B9%96%E5%8C%97-%E9%BB%84%E5%86%88,Hubei
+Jingzhou,%E6%B9%96%E5%8C%97-%E8%8D%86%E5%B7%9E,Hubei
+Ezhou,%E6%B9%96%E5%8C%97-%E9%84%82%E5%B7%9E,Hubei
+Suizhou,%E6%B9%96%E5%8C%97-%E9%9A%8F%E5%B7%9E,Hubei
+Xiangyang,%E6%B9%96%E5%8C%97-%E8%A5%84%E9%98%B3,Hubei
+yellowstone,%E6%B9%96%E5%8C%97-%E9%BB%84%E7%9F%B3,Hubei
+Jingmen,%E6%B9%96%E5%8C%97-%E8%8D%86%E9%97%A8,Hubei
+Yichang,%E6%B9%96%E5%8C%97-%E5%AE%9C%E6%98%8C,Hubei
+Xianning,%E6%B9%96%E5%8C%97-%E5%92%B8%E5%AE%81,Hubei
+shiyan,%E6%B9%96%E5%8C%97-%E5%8D%81%E5%A0%B0,Hubei
+Xiantao,%E6%B9%96%E5%8C%97-%E4%BB%99%E6%A1%83,Hubei
+Tianmen,%E6%B9%96%E5%8C%97-%E5%A4%A9%E9%97%A8,Hubei
+Enshi,%E6%B9%96%E5%8C%97-%E6%81%A9%E6%96%BD,Hubei
+Qianjiang,%E6%B9%96%E5%8C%97-%E6%BD%9C%E6%B1%9F,Hubei
+Shennongjia Forest Area,%E6%B9%96%E5%8C%97-%E7%A5%9E%E5%86%9C%E6%9E%B6%E6%9E%97%E5%8C%BA,Hubei
+Hulunbuir,%E5%86%85%E8%92%99%E5%8F%A4-%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94,Neimenggu
+Hohhot,%E5%86%85%E8%92%99%E5%8F%A4-%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9,Neimenggu
+Alxa League,%E5%86%85%E8%92%99%E5%8F%A4-%E9%98%BF%E6%8B%89%E5%96%84%E7%9B%9F,Neimenggu
+Baotou,%E5%86%85%E8%92%99%E5%8F%A4-%E5%8C%85%E5%A4%B4,Neimenggu
+Xilin Gol League,%E5%86%85%E8%92%99%E5%8F%A4-%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%92%E7%9B%9F,Neimenggu
+Tongliao,%E5%86%85%E8%92%99%E5%8F%A4-%E9%80%9A%E8%BE%BD,Neimenggu
+Ordos,%E5%86%85%E8%92%99%E5%8F%A4-%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF,Neimenggu
+Chifeng,%E5%86%85%E8%92%99%E5%8F%A4-%E8%B5%A4%E5%B3%B0,Neimenggu
+bayannaoer,%E5%86%85%E8%92%99%E5%8F%A4-%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94,Neimenggu
+Ulanqab,%E5%86%85%E8%92%99%E5%8F%A4-%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83,Neimenggu
+Hinggan League,%E5%86%85%E8%92%99%E5%8F%A4-%E5%85%B4%E5%AE%89%E7%9B%9F,Neimenggu
+Wuhai,%E5%86%85%E8%92%99%E5%8F%A4-%E4%B9%8C%E6%B5%B7,Neimenggu
+Changsha,%E6%B9%96%E5%8D%97-%E9%95%BF%E6%B2%99,Hunan
+Yueyang,%E6%B9%96%E5%8D%97-%E5%B2%B3%E9%98%B3,Hunan
+Shaoyang,%E6%B9%96%E5%8D%97-%E9%82%B5%E9%98%B3,Hunan
+Zhuzhou,%E6%B9%96%E5%8D%97-%E6%A0%AA%E6%B4%B2,Hunan
+Changde,%E6%B9%96%E5%8D%97-%E5%B8%B8%E5%BE%B7,Hunan
+Loudi,%E6%B9%96%E5%8D%97-%E5%A8%84%E5%BA%95,Hunan
+Zhangjiajie,%E6%B9%96%E5%8D%97-%E5%BC%A0%E5%AE%B6%E7%95%8C,Hunan
+Yiyang,%E6%B9%96%E5%8D%97-%E7%9B%8A%E9%98%B3,Hunan
+Huaihua,%E6%B9%96%E5%8D%97-%E6%80%80%E5%8C%96,Hunan
+Hengyang,%E6%B9%96%E5%8D%97-%E8%A1%A1%E9%98%B3,Hunan
+Yongzhou,%E6%B9%96%E5%8D%97-%E6%B0%B8%E5%B7%9E,Hunan
+Xiangtan,%E6%B9%96%E5%8D%97-%E6%B9%98%E6%BD%AD,Hunan
+Chenzhou,%E6%B9%96%E5%8D%97-%E9%83%B4%E5%B7%9E,Hunan
+Xiangxi Prefecture,%E6%B9%96%E5%8D%97-%E6%B9%98%E8%A5%BF%E5%B7%9E,Hunan
+Hefei,%E5%AE%89%E5%BE%BD-%E5%90%88%E8%82%A5,Anhui
+Fuyang,%E5%AE%89%E5%BE%BD-%E9%98%9C%E9%98%B3,Anhui
+Bengbu,%E5%AE%89%E5%BE%BD-%E8%9A%8C%E5%9F%A0,Anhui
+Bozhou,%E5%AE%89%E5%BE%BD-%E4%BA%B3%E5%B7%9E,Anhui
+Lu'an,%E5%AE%89%E5%BE%BD-%E5%85%AD%E5%AE%89,Anhui
+Anqing,%E5%AE%89%E5%BE%BD-%E5%AE%89%E5%BA%86,Anhui
+Suzhou,%E5%AE%89%E5%BE%BD-%E5%AE%BF%E5%B7%9E,Anhui
+Suzhou,%E5%AE%89%E5%BE%BD-%E5%AE%BF%E5%B7%9E,Jiangsu
+Ma On Shan,%E5%AE%89%E5%BE%BD-%E9%A9%AC%E9%9E%8D%E5%B1%B1,Jiangsu
+Wuhu,%E5%AE%89%E5%BE%BD-%E8%8A%9C%E6%B9%96,Anhui
+Huainan,%E5%AE%89%E5%BE%BD-%E6%B7%AE%E5%8D%97,Anhui
+Huainan,%E5%AE%89%E5%BE%BD-%E6%B7%AE%E5%8D%97,Jiangsu
+Tongling,%E5%AE%89%E5%BE%BD-%E9%93%9C%E9%99%B5,Anhui
+Huaibei,%E5%AE%89%E5%BE%BD-%E6%B7%AE%E5%8C%97,Anhui
+Chizhou,%E5%AE%89%E5%BE%BD-%E6%B1%A0%E5%B7%9E,Anhui
+Chuzhou,%E5%AE%89%E5%BE%BD-%E6%BB%81%E5%B7%9E,Anhui
+Huangshan,%E5%AE%89%E5%BE%BD-%E9%BB%84%E5%B1%B1,Anhui
+Xuancheng,%E5%AE%89%E5%BE%BD-%E5%AE%A3%E5%9F%8E,Anhui
+Urumqi,%E6%96%B0%E7%96%86-%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90,Xinjiang
+Kashgar area,%E6%96%B0%E7%96%86-%E5%96%80%E4%BB%80%E5%9C%B0%E5%8C%BA,Xinjiang
+Ili Prefecture,%E6%96%B0%E7%96%86-%E4%BC%8A%E7%8A%81%E5%B7%9E,Xinjiang
+Changji Prefecture,%E6%96%B0%E7%96%86-%E6%98%8C%E5%90%89%E5%B7%9E,Xinjiang
+Turpan area,%E6%96%B0%E7%96%86-%E5%90%90%E9%B2%81%E7%95%AA%E5%9C%B0%E5%8C%BA,Xinjiang
+Bayingoleng Mongolian Autonomous Prefecture,%E6%96%B0%E7%96%86-%E5%B7%B4%E9%9F%B3%E9%83%AD%E6%A5%9E%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%B7%9E,Xinjiang
+Aksu Region,%E6%96%B0%E7%96%86-%E9%98%BF%E5%85%8B%E8%8B%8F%E5%9C%B0%E5%8C%BA,Xinjiang
+Lanzhou,%E7%94%98%E8%82%83-%E5%85%B0%E5%B7%9E,Gansu
+Tianshui,%E7%94%98%E8%82%83-%E5%A4%A9%E6%B0%B4,Gansu
+silver,%E7%94%98%E8%82%83-%E7%99%BD%E9%93%B6,Gansu
+Zhangye,%E7%94%98%E8%82%83-%E5%BC%A0%E6%8E%96,Gansu
+Pingliang,%E7%94%98%E8%82%83-%E5%B9%B3%E5%87%89,Gansu
+Dingxi,%E7%94%98%E8%82%83-%E5%AE%9A%E8%A5%BF,Gansu
+Gannan Prefecture,%E7%94%98%E8%82%83-%E7%94%98%E5%8D%97%E5%B7%9E,Gansu
+Longnan,%E7%94%98%E8%82%83-%E9%99%87%E5%8D%97,Gansu
+Jiayuguan,%E7%94%98%E8%82%83-%E5%98%89%E5%B3%AA%E5%85%B3,Gansu
+Linxia Prefecture,%E7%94%98%E8%82%83-%E4%B8%B4%E5%A4%8F%E5%B7%9E,Gansu
+Qingyang,%E7%94%98%E8%82%83-%E5%BA%86%E9%98%B3,Gansu
+Jinchang,%E7%94%98%E8%82%83-%E9%87%91%E6%98%8C,Gansu
+Jiuquan,%E7%94%98%E8%82%83-%E9%85%92%E6%B3%89,Gansu
+Wuwei,%E7%94%98%E8%82%83-%E6%AD%A6%E5%A8%81,Gansu
+Zunyi,%E8%B4%B5%E5%B7%9E-%E9%81%B5%E4%B9%89,Guizhou
+Guiyang,%E8%B4%B5%E5%B7%9E-%E8%B4%B5%E9%98%B3,Guizhou
+Qiannan Prefecture,%E8%B4%B5%E5%B7%9E-%E9%BB%94%E5%8D%97%E5%B7%9E,Guizhou
+Qiandongnan Prefecture,%E8%B4%B5%E5%B7%9E-%E9%BB%94%E4%B8%9C%E5%8D%97%E5%B7%9E,Guizhou
+Liupanshui,%E8%B4%B5%E5%B7%9E-%E5%85%AD%E7%9B%98%E6%B0%B4,Guizhou
+Qianxinan Prefecture,%E8%B4%B5%E5%B7%9E-%E9%BB%94%E8%A5%BF%E5%8D%97%E5%B7%9E,Guizhou
+Anshun,%E8%B4%B5%E5%B7%9E-%E5%AE%89%E9%A1%BA,Guizhou
+Yinchuan,%E5%AE%81%E5%A4%8F-%E9%93%B6%E5%B7%9D,Ningxia
+Wu Zhong,%E5%AE%81%E5%A4%8F-%E5%90%B4%E5%BF%A0,Ningxia
+Guyuan,%E5%AE%81%E5%A4%8F-%E5%9B%BA%E5%8E%9F,Ningxia
+Zhongwei,%E5%AE%81%E5%A4%8F-%E4%B8%AD%E5%8D%AB,Ningxia
+Shizuishan,%E5%AE%81%E5%A4%8F-%E7%9F%B3%E5%98%B4%E5%B1%B1,Ningxia
+Lhasa,%E8%A5%BF%E8%97%8F-%E6%8B%89%E8%90%A8,Xizang
