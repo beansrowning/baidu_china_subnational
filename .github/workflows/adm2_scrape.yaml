@@ -3,8 +3,8 @@
 on:
   workflow_dispatch:
   schedule:
-    # Run at 0000 Shanghai time (time in UTC, so offset by 8)
-    - cron: '30 16 * * *'
+    # Run around 11AM Beijing Time (time in UTC, so offset by 8)
+    - cron: '40 02 * * *'
 
 name: "China Sub-national Data Pull"
 
