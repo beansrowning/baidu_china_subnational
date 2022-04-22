@@ -1,5 +1,6 @@
 library(dplyr)
 library(readr)
+library(pbapply)
 
 source("R/funcs.R")
 
@@ -8,10 +9,10 @@ all_urls <- read_csv("data/page_lookup.csv")
 # === Scrape all data ======================
 
 # Scrape
-all_city_data <- lapply(all_urls[["url"]], debouce_scrape)
+all_city_data <- pblapply(all_urls[["url"]], debouce_scrape)
 
 # Parse into a data frame
-all_city_parsed <- lapply(all_city_data, attempt_parse)
+all_city_parsed <- pblapply(all_city_data, attempt_parse)
 
 # Make a list for all the cities that failed to parse
 failed <- vector("character")
