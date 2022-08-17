@@ -1,6 +1,6 @@
 library(dplyr)
 library(httr)
-
+library(xml2) # required explicitly now?
 
 baidu_json_scrape <- function(area, baidu_base = "https://voice.baidu.com/newpneumonia/getv2") {
   # --- Handle User Agent spoofing
