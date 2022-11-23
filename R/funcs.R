@@ -39,13 +39,18 @@ baidu_json_parse <- function(json_data) {
   time_series_data <- setNames(
     json_data[["data"]][["trend"]][["list"]][[1]][["data"]],
     json_data[["data"]][["trend"]][["list"]][[1]][["name"]]
-    )
+  )
 
+  # HACK: drop final time series since it's just a duplicate of the first one
+  if (length(time_series_data) == 3) {
+    time_series_data <- time_series_data[-3]
+  }
+  
   date_stamps <- unlist(json_data[["data"]][["trend"]][["updateDate"]])
 
   area_name <- json_data[["data"]][["name"]]
 
-  
+
   out <- tibble(
     area_zh = area_name,
     date = date_stamps,
