@@ -52,10 +52,18 @@ baidu_json_parse <- function(json_data) {
 
   area_name <- json_data[["data"]][["name"]]
 
+  conformable <- length(time_series_data[[1]]) == length(time_series_data[[2]])
+
+  if (!conformable) {
+    warning(sprintf("%s: symptomatic and asymptomatic lengths differed", area_name, immediate. = TRUE))
+    return(NULL)
+  }
 
   out <- tibble(
     area_zh = area_name,
-    date = date_stamps,
+    # Hack: always assume time series data is right-aligned if date stamps
+    # aren't conformable
+    date = tail(date_stamps, n = length(time_series_data[[1]])),
     !!!time_series_data
   )
 
