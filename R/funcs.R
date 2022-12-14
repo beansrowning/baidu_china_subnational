@@ -65,6 +65,16 @@ baidu_json_parse <- function(json_data) {
     # aren't conformable
     date = tail(date_stamps, n = length(time_series_data[[1]])),
     !!!time_series_data
+  ) |>
+  select(
+    area_zh, date,
+    any_of(
+      c(
+        "\U65b0\U589e\U65e0\U75c7\U72b6",
+        "\U65b0\U589e\U672c\U571f",
+        "\U65b0\U589e\U672c\U571f\U65e0\U75c7\U72b6"
+      )
+    )
   )
 
   return(out)
