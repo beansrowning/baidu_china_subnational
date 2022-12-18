@@ -2,9 +2,6 @@
 # https://community.rstudio.com/new-topic?category=Package%20development&tags=github-actions
 on:
   workflow_dispatch:
-  schedule:
-    # Run around 11AM Beijing Time (time in UTC, so offset by 8)
-    - cron: '40 02 * * *'
 
 name: "China Sub-national Data Pull"
 
