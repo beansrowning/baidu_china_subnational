@@ -1,4 +1,4 @@
-# Baidu COVID-19 Case Data Scrape
+# Baidu COVID-19 Case Data Scrape - NO New Updates
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
 
@@ -6,6 +6,7 @@
 
 Mining City/Prefecture-level COVID-19 data on China from public sources.
 
+**As of Dec 13, Baidu no longer provides data updates via their public dashboard. There will likely be no new releases.**
 ## Related documents
 
 * [Open Practices](open_practices.md)
